@@ -3,7 +3,7 @@ title: "포스트 연습중입니다"
 excerpt: "연습"
 
 categories:
-  - Categories2
+  - categories2
 tags:
   - [practice, java]
 
