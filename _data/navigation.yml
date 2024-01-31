@@ -20,8 +20,8 @@ main:
 categories:
 - title: "Title1"
     children:
-    - title: "Categories1"
-    url: /categories/categories1/
+    - title: "java"
+    url: /categories/java/
     - title: "Categories2"
     url: /categories/categories2/
     - title: "Categories3"
