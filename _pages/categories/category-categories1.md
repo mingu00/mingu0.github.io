@@ -1,7 +1,7 @@
 ---
-title: "java"
+title: "categories1"
 layout: category
-permalink: /categories/java/
+permalink: /categories/categories1/
 author_profile: true
 taxonomy: java
 sidebar:
