@@ -3,11 +3,11 @@ title: "포스트 연습중입니다"
 excerpt: "연습중"
 
 categories: # 카테고리 설정
-  - Java
+  - categories1
 tags: # 포스트 태그
   - [tag1, tag2]
 
-permalink: /Java/practice/ # 포스트 URL
+permalink: /categories1/practice/ # 포스트 URL
 
 toc: true # 우측에 본문 목차 네비게이션 생성
 toc_sticky: true # 본문 목차 네비게이션 고정 여부
