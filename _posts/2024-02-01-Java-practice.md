@@ -3,7 +3,7 @@ title: "포스트 연습중입니다"
 excerpt: "연습중"
 
 categories: # 카테고리 설정
-  - Java
+  - Categories1
 tags: # 포스트 태그
   - [tag1, tag2]
 
