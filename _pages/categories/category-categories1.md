@@ -1,9 +1,9 @@
 ---
-title: "Categories1"
+title: "java"
 layout: category
-permalink: /categories/categories1/
+permalink: /categories/java/
 author_profile: true
-taxonomy: Categories1
+taxonomy: java
 sidebar:
   nav: "categories"
 ---
