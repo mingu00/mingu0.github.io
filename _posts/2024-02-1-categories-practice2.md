@@ -12,10 +12,10 @@ permalink: /categories2/practice2/
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2024-02-1
+last_modified_at: 2024-02-1
 ---
 
 ## 🦥 본문
 
-본문은 여기에 ...
+블로그 포스트 작성 연습중입니다.
