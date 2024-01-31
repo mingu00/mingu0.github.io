@@ -24,3 +24,5 @@ categories:
     url: /categories/categories2/
   - title: "Github blog"
     url: /categories/Categories3/
+    - title: "Info"
+    url: /categories/Categories4/
