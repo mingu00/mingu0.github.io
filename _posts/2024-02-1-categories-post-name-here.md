@@ -3,7 +3,7 @@ title: "첫 게시글 연습"
 excerpt: "연습용 입니다"
 
 categories:
-  - Categories1
+  - categories1
 tags:
   - [java, coding]
 
