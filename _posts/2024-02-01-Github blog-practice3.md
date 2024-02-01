@@ -12,8 +12,8 @@ permalink: /categories3/practice3/
 toc: true
 toc_sticky: true
 
-date: 2022-07-24
-last_modified_at: 2022-07-24
+date: 2024-02-01
+last_modified_at: 2024-02-01
 ---
 
 ## 🦥 본문
