@@ -3,7 +3,7 @@ title: "Info에 작성되는지 확인하는 포스트"
 excerpt: "확인용입니다"
 
 categories:
-  - Java
+  - Info
 tags:
   - [tag1, tag2]
 
