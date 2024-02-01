@@ -7,7 +7,7 @@ categories:
 tags:
   - [java, coding]
 
-permalink: /categories2/practice2/
+permalink: /Algorithm/practice2/
 
 toc: true
 toc_sticky: true
