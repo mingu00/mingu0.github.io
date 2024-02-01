@@ -1,6 +1,6 @@
 ---
-title: "Github blog 첫 포스트 연습"
-excerpt: "첫 게시물입니당"
+title: "Github blog에 작성되는지 확인하는 포스트"
+excerpt: "연습용 입니다"
 
 categories:
   - Github blog
