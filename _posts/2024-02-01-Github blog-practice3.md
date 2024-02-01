@@ -1,6 +1,6 @@
 ---
-title: "[포스팅 예시] 이곳에 제목을 입력하세요"
-excerpt: "본문의 주요 내용을 여기에 입력하세요"
+title: "Github blog 첫 포스트 연습"
+excerpt: "첫 게시물입니당"
 
 categories:
   - Github blog
@@ -18,4 +18,4 @@ last_modified_at: 2024-02-01
 
 ## 🦥 본문
 
-본문은 여기에 ...
+ㅇㅇㅇ
