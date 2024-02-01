@@ -1,7 +1,7 @@
 ---
 title: "Github blog"
 layout: category
-permalink: /categories/categories3/
+permalink: /categories/Github blog/
 author_profile: true
 taxonomy: Categories3
 sidebar:
