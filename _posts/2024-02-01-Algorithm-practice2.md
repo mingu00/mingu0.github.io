@@ -3,11 +3,11 @@ title: "첫 게시글입니다"
 excerpt: "연습중!"
 
 categories:
-  - Categories1
+  - Algorithm
 tags:
   - [java, coding]
 
-permalink: /categories1/post-name-here/
+permalink: /categories2/practice2/
 
 toc: true
 toc_sticky: true
