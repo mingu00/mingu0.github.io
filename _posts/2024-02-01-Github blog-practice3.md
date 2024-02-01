@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /category3/practice3/
+permalink: /categories3/practice3/
 
 toc: true
 toc_sticky: true
