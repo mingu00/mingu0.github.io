@@ -19,10 +19,10 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "Java"
-    url: /categories/Java/
+    url: /categories/categories1/
   - title: "Algorithm"
-    url: /categories/Algorithm/
+    url: /categories/categories2/
   - title: "Github blog"
-    url: /categories/Github blog/
+    url: /categories/categories3/
   - title: "Info"
-    url: /categories/Info/
+    url: /categories/categories4/
