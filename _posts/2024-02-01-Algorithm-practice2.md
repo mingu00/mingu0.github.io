@@ -1,6 +1,6 @@
 ---
-title: "첫 게시글입니다"
-excerpt: "연습중!"
+title: "Algorithm에 작성되는지 확인하는 포스트"
+excerpt: "연습용 입니다"
 
 categories:
   - Algorithm
