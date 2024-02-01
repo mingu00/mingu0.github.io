@@ -7,7 +7,7 @@ categories:
 tags:
   - [tag1, tag2]
 
-permalink: /categories3/practice3/
+permalink: /Github blog/practice3/
 
 toc: true
 toc_sticky: true
